@@ -1,0 +1,15 @@
+{
+  "repository": "module-social-network-discovery-dart-desktop",
+  "capabilityKey": "liberusoftware/module-social-network-discovery",
+  "presentation": "dart-desktop",
+  "package": "module_social_network_discovery_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/social-network/nextjs/discovery.md",
+  "presentationPlan": "projects/social-network/features/discovery.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "social-network"
+  ]
+}
